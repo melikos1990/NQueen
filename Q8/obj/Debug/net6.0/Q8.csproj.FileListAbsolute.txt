@@ -1,0 +1,15 @@
+F:\source\repos\Q8\Q8\bin\Debug\net6.0\Q8.exe
+F:\source\repos\Q8\Q8\bin\Debug\net6.0\Q8.deps.json
+F:\source\repos\Q8\Q8\bin\Debug\net6.0\Q8.runtimeconfig.json
+F:\source\repos\Q8\Q8\bin\Debug\net6.0\Q8.dll
+F:\source\repos\Q8\Q8\bin\Debug\net6.0\ref\Q8.dll
+F:\source\repos\Q8\Q8\bin\Debug\net6.0\Q8.pdb
+F:\source\repos\Q8\Q8\obj\Debug\net6.0\Q8.csproj.AssemblyReference.cache
+F:\source\repos\Q8\Q8\obj\Debug\net6.0\Q8.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\Q8\Q8\obj\Debug\net6.0\Q8.AssemblyInfoInputs.cache
+F:\source\repos\Q8\Q8\obj\Debug\net6.0\Q8.AssemblyInfo.cs
+F:\source\repos\Q8\Q8\obj\Debug\net6.0\Q8.csproj.CoreCompileInputs.cache
+F:\source\repos\Q8\Q8\obj\Debug\net6.0\Q8.dll
+F:\source\repos\Q8\Q8\obj\Debug\net6.0\ref\Q8.dll
+F:\source\repos\Q8\Q8\obj\Debug\net6.0\Q8.pdb
+F:\source\repos\Q8\Q8\obj\Debug\net6.0\Q8.genruntimeconfig.cache
